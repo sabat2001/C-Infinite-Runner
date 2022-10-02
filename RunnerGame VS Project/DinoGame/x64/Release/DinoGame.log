@@ -1,0 +1,13 @@
+﻿  AnimatedSprite.cpp
+  Animation.cpp
+  Hud.cpp
+  main.cpp
+  Manage.cpp
+  Map.cpp
+  Obstacle.cpp
+  Player.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 349 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DinoGame.vcxproj -> C:\Users\faraz\Desktop\RunnerGame VS Project\x64\Release\DinoGame.exe
